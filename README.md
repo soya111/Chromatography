@@ -84,7 +84,7 @@
 
 * RI（示差屈折）検出器
 
-[HPLCの基礎（4） 各種検出器の特徴 | 日本分光株式会社](https://www.jasco.co.jp/jpn/technique/internet-seminar/hplc/hplc4.html)
+[HPLCの基礎（4） 各種検出器の特徴  日本分光株式会社](https://www.jasco.co.jp/jpn/technique/internet-seminar/hplc/hplc4.html)
 
 ## 理論段数
 
