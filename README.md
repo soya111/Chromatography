@@ -1,4 +1,9 @@
 # Chromatography
+## クロマトグラフィーとは
+>クロマトグラフィーは混合試料を成分ごとに分離する技術です。
+
+[第1回 HPLCの原理とシステム構成（1）](https://www.hitachi-hightech.com/hhs/products/tech/ana/lc/basic/lc_course1.html)
+
 ## ガスクロマトグラフィー（GC）
 ### GC（ガスクロマトグラフ）とは？
 >GCは，気体の分析手法であるガスクロマトグラフィーを行う装置（ガスクロマトグラフ：Gas Chromatograph）の略称です。
@@ -10,5 +15,7 @@
 >「液体試料を加熱し，気化するための試料気化室」・「各化合物に分離するためのカラム」・「各化合物を検出し，その濃度を電気信号として出力する検出器」の3点がGCの主な構成品です。
 
 [GC（ガスクロマトグラフ）とは？](https://www.an.shimadzu.co.jp/gc/support/faq/fundamentals/gas_chromatography.htm)
+
+
 
 
