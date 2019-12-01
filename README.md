@@ -64,3 +64,9 @@
 >「液体試料を加熱し，気化するための試料気化室」・「各化合物に分離するためのカラム」・「各化合物を検出し，その濃度を電気信号として出力する検出器」の3点がGCの主な構成品です。
 
 [GC（ガスクロマトグラフ）とは？](https://www.an.shimadzu.co.jp/gc/support/faq/fundamentals/gas_chromatography.htm)
+
+### 理論段数
+
+```math
+e^{i\pi}=-1
+```
