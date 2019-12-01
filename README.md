@@ -64,15 +64,31 @@
 
 [GC（ガスクロマトグラフ）とは？](https://www.an.shimadzu.co.jp/gc/support/faq/fundamentals/gas_chromatography.htm)
 
-### 理論段数
+## 理論段数
 
 ![理論段数の式](./img/texclip20191201182010.png)
+
+![理論段数の式2](./img/texclip20191202055435.png)
 
 tR:保持時間
 
 w1/2:ピークの半値幅
 
-### 分離度 Rs
+## 理論段高さ HETP
+
+![理論段高さの式](./img/texclip20191202054931.png)
+
+L:カラムの長さ
+
+N:理論段数
+
+u:線速度として
+
+![](./img/texclip20191202060039.png)
+
+と表せる。
+
+## 分離度 Rsと分離係数 α
 
 ![分離度の式](./img/texclip20191202050452.png)
 
@@ -84,12 +100,26 @@ WA,WBはピーク幅
 
 [HPLC //LCtalk81号入門　「分離度のはなし　その1」 : 株式会社島津製作所](https://www.an.shimadzu.co.jp/hplc/support/lib/lctalk/81/81intro.htm)
 
-[基本に戻りましょう第一回:保持係数](https://blog.sepscience.com/japan/%E5%9F%BA%E6%9C%AC%E3%81%AB%E6%88%BB%E3%82%8A%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%E7%AC%AC%E4%B8%80%E5%9B%9E%E4%BF%9D%E6%8C%81%E4%BF%82%E6%95%B0)
+保持係数kは、
+
+t0:非保持物質のカラム通過時間
+
+tR:保持時間
+
+を用い
 
 ![保持係数の式](./img/texclip20191202053622.png)
 
-であり、分離係数αは
+であり、分離係数αはkを用いて
 
 ![分離係数の式](./img/texclip20191202053813.png)
 
 とあらわされる。
+
+α=1の時、ピークが完全に重なる
+
+α>1で分離可能
+
+α>2が理想
+
+[基本に戻りましょう第一回:保持係数](https://blog.sepscience.com/japan/%E5%9F%BA%E6%9C%AC%E3%81%AB%E6%88%BB%E3%82%8A%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%E7%AC%AC%E4%B8%80%E5%9B%9E%E4%BF%9D%E6%8C%81%E4%BF%82%E6%95%B0)
